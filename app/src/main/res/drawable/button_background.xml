@@ -1,0 +1,22 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape android:shape="rectangle" >
+            <corners android:radius="10dp" />
+            <solid android:color="@color/grey" />
+        </shape>
+    </item>
+    <item android:id="@+id/clip_drawable" >
+        <clip
+            android:clipOrientation="vertical"
+            android:gravity="bottom">
+            <shape
+                android:shape="rectangle" android:innerRadius="20dp">
+                <corners android:radius="10dp" />
+                <solid
+                    android:color="@color/blue" />
+            </shape>
+        </clip>
+    </item>
+    <item android:drawable="@drawable/ic_baseline_navigate_next_24" android:gravity="center"/>
+</layer-list>
