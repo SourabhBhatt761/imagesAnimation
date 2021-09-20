@@ -11,7 +11,7 @@
             android:clipOrientation="vertical"
             android:gravity="bottom">
             <shape
-                android:shape="rectangle" android:innerRadius="20dp">
+                android:shape="rectangle">
                 <corners android:radius="10dp" />
                 <solid
                     android:color="@color/blue" />

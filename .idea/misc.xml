@@ -7,10 +7,19 @@
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable-v24/avd_check_to_close.xml" value="0.26875" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/btn_color_change.xml" value="0.26875" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/button_background.xml" value="0.26461538461538464" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/gradient_progress_bar.xml" value="0.25092592592592594" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_check.xml" value="0.24537037037037038" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_close.xml" value="0.24537037037037038" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_i_btn.xml" value="0.2703125" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_onboarding_5_img.xml" value="0.25277777777777777" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_onboarding_screen_4_img.xml" value="0.2703125" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/ic_picture_circle.xml" value="0.24537037037037038" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/drawable/right_icon_white.xml" value="0.25092592592592594" />
         <entry key="..\:/Android/imagesAnimation/app/src/main/res/layout/activity_main.xml" value="0.2526041666666667" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/layout/activity_onboarding.xml" value="0.2196969696969697" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/layout/onboarding.xml" value="0.4" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/layout/onboarding_screen_4.xml" value="0.176" />
+        <entry key="..\:/Android/imagesAnimation/app/src/main/res/layout/onboarding_screen_5.xml" value="0.12360688956433637" />
       </map>
     </option>
   </component>

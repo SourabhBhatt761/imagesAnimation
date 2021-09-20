@@ -29,9 +29,7 @@
         android:layout_width="80dp"
         android:layout_height="70dp"
         android:layout_marginTop="276dp"
-        android:background="@drawable/button_background"
-        android:textColor="@color/white"
-        app:backgroundTint="@null"
+        app:cornerRadius="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.524"
         app:layout_constraintStart_toStartOf="parent"
@@ -48,6 +46,23 @@
 <!--        app:layout_constraintBottom_toBottomOf="parent"-->
 <!--        app:layout_constraintEnd_toEndOf="parent"-->
 <!--        android:contentDescription="random" />-->
+
+    <me.itangqi.waveloadingview.WaveLoadingView
+        android:id="@+id/waveLoadingView"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/clickBtn"
+        app:wlv_borderWidth="3dp"
+        app:wlv_round_rectangle="true"
+        app:wlv_shapeType="rectangle"
+        app:circularflow_radiusInDP="20dp"
+        app:wlv_triangle_direction="north"
+        app:wlv_waveAmplitude="50"
+        app:wlv_progressValue="10"
+        app:wlv_waveColor="@color/blue" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
